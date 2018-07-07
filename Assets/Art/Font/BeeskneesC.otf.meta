@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9730eb32e423ca947a7cf7a2a1c406d8
+timeCreated: 1518009928
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BeeskneesC
+  fontNames:
+  - BeeskneesC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
